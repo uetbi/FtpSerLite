@@ -1,2 +1,2 @@
 #FtpSerLite
-Simplified version of the FTP server
+Simplified version of the FTP server.
